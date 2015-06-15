@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Journal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="myList">
+        <item>CSCI522.txt</item>
+        <item>CSCI640.txt</item>
+        <item>CSCI590.txt</item>
+        <item>CSCI680.txt</item>
+    </string-array>
+
+</resources>
